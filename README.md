@@ -29,6 +29,6 @@ Parâmetros:
    
 Descrição: Retorna uma lista de colaboradores pertencentes a um departamento específico, indicando se possuem dependentes.
 
-### 🚀 Testando a API
+## 🚀 Testando a API
 1. Após iniciar o servidor Flask, você pode acessar a documentação da API em http://localhost:5000/apidocs.
 2. Use ferramentas como Postman ou cURL para enviar solicitações HTTP para as rotas da API e verificar as respostas.
